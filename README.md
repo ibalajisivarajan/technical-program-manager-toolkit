@@ -14,10 +14,10 @@ Built from 10+ years of TPM experience delivering programs at **JetBlue, CHUBB, 
 | Template | What It Does | Best Used For |
 |---|---|---|
 | [📋 Program Charter](templates/program-charter-template.md) | Defines scope, objectives, stakeholders, success metrics | Kickstarting any new program |
-| [🔗 Dependency Tracker](templates/dependency-tracker.md) | Maps cross-team dependencies, owners, and blockers | Multi-team program execution |
-| [🏛️ Architecture Review](templates/architecture-review.md) | Structured framework for reviewing system design decisions | Cloud migrations, new platform builds |
-| [⚠️ Risk Register](templates/risk-register.md) | Tracks risks, likelihood, impact, and mitigation actions | Ongoing program governance |
-| [🚀 Release Orchestration](templates/release-orchestration.md) | Coordinates cross-service releases with go/no-go gates | CI/CD and release management |
+| [🔗 Dependency Tracker](templates/dependency-tracker-template.md) | Maps cross-team dependencies, owners, and blockers | Multi-team program execution |
+| [🏛️ Architecture Review](templates/architecture-review-template.md) | Structured framework for reviewing system design decisions | Cloud migrations, new platform builds |
+| [⚠️ Risk Register](templates/risk-register-template.md) | Tracks risks, likelihood, impact, and mitigation actions | Ongoing program governance |
+| [🚀 Release Orchestration](templates/release-orchestration-framework.md) | Coordinates cross-service releases with go/no-go gates | CI/CD and release management |
 
 ---
 
