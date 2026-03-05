@@ -30,6 +30,17 @@ Built from 10+ years of TPM experience delivering programs at **JetBlue, CHUBB, 
 
 ---
 
+## 🛠️ Built For These Types of Programs
+
+- ☁️ Cloud platform migrations (Azure, AWS)
+- 🤖 AI/ML platform delivery
+- ✈️ Mission-critical operational systems
+- 📊 Enterprise data platform builds
+- ⚙️ Microservices and CI/CD transformations
+- 🏛️ Government digital transformation
+
+---
+
 ## 🚀 How To Use
 
 **Option 1 — Use directly on GitHub**
@@ -98,17 +109,6 @@ Release Name · Services In Scope · Release Owner
 Pre-release Checklist · Go/No-Go Criteria · Rollback Plan
 Communication Plan · Post-release Validation · Retrospective
 ```
-
----
-
-## 🛠️ Built For These Types of Programs
-
-- ☁️ Cloud platform migrations (Azure, AWS)
-- 🤖 AI/ML platform delivery
-- ✈️ Mission-critical operational systems
-- 📊 Enterprise data platform builds
-- ⚙️ Microservices and CI/CD transformations
-- 🏛️ Government digital transformation
 
 ---
 
