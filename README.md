@@ -2,7 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Balaji%20Sivarajan-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/balaji-sivarajan-08-08/)
 [![Templates](https://img.shields.io/badge/Templates-5%20Ready%20to%20Use-00c8ff?style=flat)](./templates)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](./LICENSE)
 
 > Practical, battle-tested templates and frameworks for running large-scale engineering programs across cloud, AI/ML, and distributed systems.
 
